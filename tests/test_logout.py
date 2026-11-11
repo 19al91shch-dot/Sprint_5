@@ -6,7 +6,7 @@ import locators
 
 
 class TestLogout:
-    def test_access_to_constructor_through_link(self, driver):
+    def test_logout(self, driver):
         # авторизация
         email = 'sherbitskaya_alenka_54.123@yandex.kz'
         password = 'a1Bcde'

@@ -13,6 +13,8 @@ sign_in_button = "//button[text()='Войти']"
 create_order_button = "//button[text()='Оформить заказ']"
 sign_in_into_account_button = "//button[text()='Войти в аккаунт']"
 personal_cabinet_button = "//a[@href='/account']"
+sign_in_registration_form = "//a[@href='/login']"
+sign_in_forgot_password = "//a[@href='/login']"
 
 # Переход в конструктор
 go_to_constructor = "//p[text()='Конструктор']/.."
