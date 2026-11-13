@@ -1,0 +1,27 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Секреты и базы данных
+.env
+db.sqlite3
+*.log
+
+# Дистрибутивы и сборка
+dist/
+build/
+*.egg-info/
+
+# Среда разработки
+.idea/
+.vscode/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
